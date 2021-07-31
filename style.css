@@ -1,0 +1,12 @@
+body{
+    background: url("https://wallpaperaccess.com/full/1129545.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#myCanvas{
+    border-style: ridge;
+    border-color: black;
+    background-color: white;
+    margin-top: 30px;
+}
